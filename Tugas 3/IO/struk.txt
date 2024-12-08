@@ -1,0 +1,7 @@
+<<< Struk Pesanan >>>
+Bakso - Rp15000.0
+es teh - Rp5000.0
+jus mangga - Rp10000.0
+diskon desember - Rp10000.0
+Total: Rp29250.0
+---------------------
